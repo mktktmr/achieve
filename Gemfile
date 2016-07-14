@@ -59,3 +59,5 @@ gem 'faker'
 gem 'letter_opener', group: :development
 ### 管理画面作成
 gem 'rails_admin'
+### 権限管理
+gem 'cancan'
